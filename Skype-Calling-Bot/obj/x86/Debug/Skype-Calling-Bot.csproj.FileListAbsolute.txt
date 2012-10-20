@@ -1,0 +1,4 @@
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\Skype-Calling-Bot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\Skype-Calling-Bot\obj\x86\Debug\Skype_Calling_Bot.Properties.Resources.resources
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\Skype-Calling-Bot\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\Skype-Calling-Bot\obj\x86\Debug\GenerateResource.write.1.tlog
