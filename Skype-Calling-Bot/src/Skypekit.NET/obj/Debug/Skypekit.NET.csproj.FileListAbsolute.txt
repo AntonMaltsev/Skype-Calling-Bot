@@ -1,0 +1,46 @@
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\Skypekit.NET.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\Skypekit.NET.pdb
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.Runtime.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\skypekit.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\obj\Debug\Skypekit.NET.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\Projects\Skype Connect\Skypekit.NET\obj\Debug\Skypekit.NET.pdb
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\Skypekit.NET.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\Skypekit.NET.pdb
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.Runtime.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\skypekit.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\obj\Debug\Skypekit.NET.dll
+C:\Users\Ahmedn1\Documents\Visual Studio 2010\SkypeNET\Skypekit.NET\obj\Debug\Skypekit.NET.pdb
