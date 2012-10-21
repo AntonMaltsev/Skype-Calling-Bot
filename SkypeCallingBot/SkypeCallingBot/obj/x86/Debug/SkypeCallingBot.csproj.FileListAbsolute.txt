@@ -7,7 +7,6 @@ D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\De
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\NHibernate.pdb
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\NHibernate.xml
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.Form1.resources
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.Properties.Resources.resources
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\GenerateResource.read.1.tlog
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\GenerateResource.write.1.tlog
@@ -22,3 +21,8 @@ D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\De
 D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\SkypeCallingBot.exe.config
 D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.exe
 D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.pdb
+D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.csproj.ResolveComReference.cache
+D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.CallSettingsForm.resources
+D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.MainForm.resources
+D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.SettingsForm.resources
