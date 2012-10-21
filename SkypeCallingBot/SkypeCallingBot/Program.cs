@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-
+using SkypeCallingBot.SkypeEngine;
 
 namespace SkypeCallingBot
 {
@@ -17,6 +17,8 @@ namespace SkypeCallingBot
             log4net.Config.XmlConfigurator.Configure();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            SkypeProxy proxy = new SkypeProxy(20);
+            proxy.callTo("sansherbina").waitForResponse(15);
             Application.Run(new Form1());
         }
     }
