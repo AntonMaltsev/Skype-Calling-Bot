@@ -1,0 +1,11 @@
+2012-10-21 14:03:54,930 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,022 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,180 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,367 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,507 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,662 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,825 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:03:57,980 [9] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 14:40:15,098 [10] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 15:33:21,136 [11] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
+2012-10-21 15:33:22,458 [11] DEBUG SkypeCallingBot.Model [(null)] - Check is logger correct
