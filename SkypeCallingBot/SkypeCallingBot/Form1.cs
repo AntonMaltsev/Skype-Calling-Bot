@@ -15,5 +15,10 @@ namespace SkypeCallingBot
         {
             InitializeComponent();
         }
+
+        private void TestBtn_Click(object sender, EventArgs e)
+        {
+            Model.check();
+        }
     }
 }
