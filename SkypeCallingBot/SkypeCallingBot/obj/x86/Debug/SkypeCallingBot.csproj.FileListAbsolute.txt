@@ -19,3 +19,6 @@ D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\De
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\log4net.dll
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\log4net.xml
 D:\Work\SkypeCallingBot\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\SkypeCallingBot.exe.config
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\bin\Debug\SkypeCallingBot.exe.config
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.exe
+D:\Andriy\Projects (programming)\Work\Skype-Calling-Bot\SkypeCallingBot\SkypeCallingBot\obj\x86\Debug\SkypeCallingBot.pdb
